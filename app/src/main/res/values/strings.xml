@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitParty</string>
+    <string name="Home">GitParty</string>
 </resources>
